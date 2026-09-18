@@ -1,14 +1,7 @@
 # Proof of Aid
 
-**Transparent, verifiable humanitarian aid.**
+Organization-level GitHub configuration and community files for **Proof of Aid**.
 
-Proof of Aid is an open-source project exploring how blockchain technology can make aid distribution more transparent, traceable, and accountable.
+The public organization profile is defined in [`profile/README.md`](profile/README.md).
 
-It focuses on:
-
-* tracking funds from donation to delivery
-* verifiable proofs of distribution and impact
-* privacy-aware identity and beneficiary workflows
-* open infrastructure others can build on
-
-Built as a practical foundation for prototypes, hackathons, research, and real-world experimentation.
+Proof of Aid explores how blockchain technology can make humanitarian aid more transparent, traceable, and verifiable.
