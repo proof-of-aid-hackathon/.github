@@ -10,4 +10,5 @@ Our proposed first milestone is a **non-custodial tracker pilot** with one NGO, 
 
 [Read the proposal and roadmap](https://proof-of-aid.lovable.app/).
 
-Contributions to the claim and event schemas, evidence workflows, and pilot design are welcome. Start with the proposal and our [contributing guide](../CONTRIBUTING.md), then open an issue in the relevant repository to discuss your idea.
+Contributions to the claim and event schemas, evidence workflows, and pilot design are welcome.
+Start with the proposal and our [contributing guide](../CONTRIBUTING.md), then open an issue in the relevant repository to discuss your idea.
